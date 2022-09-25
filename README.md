@@ -1,3 +1,5 @@
+https://github.com/mhzed/find-free-port/issues/11
+
 ## To reporduce bug:
 
 ```
@@ -11,7 +13,7 @@ node issue.js &
 ## works in node-v16
 
 ```
-nvm use 18
+nvm use 16
 node issue.js &
 node issue.js & 
 ```
