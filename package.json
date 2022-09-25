@@ -1,0 +1,19 @@
+{
+  "name": "issue--find-free-port-not-working-on-node-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Apollo Tang",
+  "license": "MIT",
+  "qutoName": "Apollo Tang",
+  "autherEmail": "tang.apollo@gmail.com",
+  "dependencies": {
+    "find-free-port": "^2.0.0",
+    "http-server": "^14.1.1",
+    "sh": "^0.0.3"
+  }
+}
